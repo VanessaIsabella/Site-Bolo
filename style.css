@@ -1,0 +1,33 @@
+html {
+    background-color: blanchedalmond;
+}
+
+body {
+    font-size: larger;
+    display: flex;
+    margin: auto;
+}
+
+.receitabolo {
+font-family: lucida sans;
+}
+
+.vamosla {
+    font-family: lucida sans;
+}
+
+.vocevaiprecisarde {
+    font-family: lucida sans;
+}
+
+.itens {
+    font-family: segoe ui;
+}
+
+.instruções {
+    font-family: lucida sans;
+}
+
+.footer {
+    font-family: segoe ui;
+}
